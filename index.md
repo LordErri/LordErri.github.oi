@@ -9,7 +9,7 @@
 <body>
     <header>Politische Landschaft 1945</header>
     <nav>
-        <a href="home.html">Home</a>
+        <a href="home.html">Start</a>
     </nav>
 </body>
 </html>
