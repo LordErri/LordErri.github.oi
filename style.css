@@ -111,3 +111,26 @@ footer::before {
         font-size: 16px;
     }
 }
+/* Navigation */
+nav {
+    background-color: #333;
+    padding: 12px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    margin: 0 5px;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    transition: all 0.3s ease-in-out;
+}
+
+nav a:hover {
+    background-color: #ff8000;
+    border-radius: 5px;
+    transform: scale(1.1);
+}
