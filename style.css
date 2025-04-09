@@ -130,7 +130,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #ff8000;
+    background-color: #b80b14;
     border-radius: 5px;
     transform: scale(1.1);
 }
